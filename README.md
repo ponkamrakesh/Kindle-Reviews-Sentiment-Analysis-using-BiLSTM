@@ -1,0 +1,2 @@
+# Kindle-Reviews-Sentiment-Analysis-using-BiLSTM
+End-to-end NLP pipeline for binary sentiment classification on Amazon Kindle reviews using TensorFlow, BiLSTM, Embedding, and a fully-balanced training setup. This project delivers a robust text-classification system with clean preprocessing, model training, evaluation, and error analysis — tuned for operational excellence and scalable deployment.
